@@ -1,0 +1,78 @@
+.me {
+  border: 40px solid rgba(13,47,64  ,.6);
+  border-radius: 220px;
+  width: 20vw;
+}
+
+body  {
+  margin: 0px;
+}
+
+nav {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+    background: rgba(230,230,230,.5);
+}
+
+.main {
+  text-align: center;
+  background-color: #36BBFF;
+  height: 80vh;
+}
+
+.about {
+  background-color: #CCC617;
+  height: 80vh;
+}
+
+.work {
+  height: 80vh;
+  background-color: #FF4F5F;
+}
+
+.appPic {
+  border: 10px solid rgba(13,47,64,.6);
+  border-radius: 20px;
+  width: 25vw;
+  margin-top: 2vw;
+}
+
+.app {
+  margin: 0 1%;
+  width: 31%;
+  float: left;
+  text-align: center;
+  background-color: rgba(127, 40, 48, .6);
+  border-radius: 20px;
+}
+
+.app p {
+  text-align: left;
+}
+
+.fixed {
+    position: fixed;
+    top: 0;
+    height: 70px;
+    z-index: 1;
+}
+
+article {
+  padding: 0 10vw;
+}
+
+section {
+  padding-top: 15vh;
+  padding-bottom: 5vh;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+li {
+  display: inline-block;
+}
